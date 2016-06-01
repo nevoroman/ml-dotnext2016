@@ -1,0 +1,9 @@
+source https://nuget.org/api/v2
+
+nuget FsLab = 0.3.19
+nuget Stanford.NLP.CoreNLP
+nuget Stanford.NLP.Parser
+nuget FSharp.Data
+nuget FsPlot
+nuget TweetinviApi
+nuget Accord.MachineLearning
